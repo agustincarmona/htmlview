@@ -1,0 +1,13 @@
+{
+    "name": "root/htmlview",
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Agustín Carmona",
+            "email": "agustin.carmona@gmail.com"
+        }
+    ],
+    "autoload": {"psr-0": {"": "src"}}
+}
